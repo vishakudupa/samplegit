@@ -1,3 +1,3 @@
 # samplegit
-Author : Vishak
-Sample git repository.
+Author : Vishak;
+Sample git repository;
